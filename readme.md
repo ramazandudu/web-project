@@ -15,7 +15,7 @@ http://g231210453.unaux.com/
 
 ### GitHub Repository:
 
-https://github.com/metepukkada/Web-Teknolojileri-Proje
+https://github.com/ramazandudu/web-project
 
 ### Yaşanan Sıkıntılar:
 
