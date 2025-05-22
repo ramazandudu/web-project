@@ -6,11 +6,11 @@
 
 ### Web Adresleri:
 
-https://b231210061.000webhostapp.com/
+https://g231210453.000webhostapp.com/
 <br>
-http://b231210061.000.pe/
+http://g231210453.000.pe/
 <br>
-http://b231210061.unaux.com/
+http://g231210453.unaux.com/
 <br>
 
 ### GitHub Repository:
@@ -21,7 +21,7 @@ https://github.com/metepukkada/Web-Teknolojileri-Proje
 
 <ul>
     <li>Web Hosting Sitesine Erişim ve SSL Sertifikası Sorunu</li>
-	<li>Projenin İlk Haftalarında  https://tr.000webhost.com/ Sitesinden Ücretsiz Domain Alıp Ödevimi Bu Adrese https://b231210061.000webhostapp.com/ Upload Ettim Lakin 18 Mayıs Tarihinde Siteye Eduroam ve Sau.net ile Girmeyi Deneyince SSL Hatasından Dolayı Siteye Erişim Sorunu Yaşamaya Başladım ve Site Üzerinde Ne FTP Ne de Kendi Dahili Dosya Yöneticisine Bağlanamadım</li>
+	<li>Projenin İlk Haftalarında  https://tr.000webhost.com/ Sitesinden Ücretsiz Domain Alıp Ödevimi Bu Adrese https://g2312104553.000webhostapp.com/ Upload Ettim Lakin 18 Mayıs Tarihinde Siteye Eduroam ve Sau.net ile Girmeyi Deneyince SSL Hatasından Dolayı Siteye Erişim Sorunu Yaşamaya Başladım ve Site Üzerinde Ne FTP Ne de Kendi Dahili Dosya Yöneticisine Bağlanamadım</li>
 	<li>https://profreehost.com/ ve https://www.infinityfree.net/ Sitesinden Domain Alıp Ödevimi Yüklediğim Zaman ise Alakasız Sitelere Yönlendiriyor Kendi Siteme Girmiyor</li>
     <li>React Frameworkü ve GIT Kayıtları ile Dosya Boyutu 492MB'a Ulaştı Bundan Dolayı Ödev Dosyasında Node Modülleri ve .git Dizini Kaldırılarak Eklendi</li>
 	<li>React CDN ile HTML Dosyasına Bağlandı Lakin Birebir Aynı Javascript Kodu kullanıldı Anlamsız Bir Kullanım Ortaya Çıktı</li>
