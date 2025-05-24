@@ -2,7 +2,7 @@
 ##			          BİLGİSAYAR VE BİLİŞİM FAKÜLTESİ <br> BİLGİSAYAR MÜHENDİSLİĞİ <br> WEB TEKNOLOJİLERİ <br> PROJE ÖDEVİ						
 				 ÖĞRENCİ.............: RAMAZAN DUDU			
 				 ÖĞRENCİ NUMARASI....: G231210453				
-				 ÖĞRENCİ GRUBU.......: A GRUBU					
+				 ÖĞRENCİ GRUBU.......:2.öğretim A GRUBU					
 
 ### Web Adresleri:
 
@@ -23,7 +23,7 @@ https://github.com/ramazandudu/web-project
     <li>Web Hosting Sitesine Erişim ve SSL Sertifikası Sorunu</li>
 	<li>Projenin İlk Haftalarında  https://tr.000webhost.com/ Sitesinden Ücretsiz Domain Alıp Ödevimi Bu Adrese https://g2312104553.000webhostapp.com/ Upload Ettim Lakin 18 Mayıs Tarihinde Siteye Eduroam ve Sau.net ile Girmeyi Deneyince SSL Hatasından Dolayı Siteye Erişim Sorunu Yaşamaya Başladım ve Site Üzerinde Ne FTP Ne de Kendi Dahili Dosya Yöneticisine Bağlanamadım</li>
 	<li>https://profreehost.com/ ve https://www.infinityfree.net/ Sitesinden Domain Alıp Ödevimi Yüklediğim Zaman ise Alakasız Sitelere Yönlendiriyor Kendi Siteme Girmiyor</li>
-    <li>React Frameworkü ve GIT Kayıtları ile Dosya Boyutu 492 megabayta ulaştı. Bundan Dolayı Ödev Dosyasında Node Modülleri ve .git Dizini Kaldırılarak Eklendi</li>
+    <li>React Frameworkü ve GIT Kayıtları ile Dosya Boyutu 82 megabayta ulaştı. Bundan Dolayı Ödev Dosyasında Node Modülleri ve .git Dizini Kaldırılarak Eklendi</li>
 	<li>React CDN ile HTML Dosyasına Bağlandı Lakin Birebir Aynı Javascript Kodu kullanıldı Anlamsız Bir Kullanım Ortaya Çıktı</li>
 </ul>
 
