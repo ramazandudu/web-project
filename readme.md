@@ -1,7 +1,7 @@
 #        			      SAKARYA ÜNİVERSİTESİ							 
 ##			          BİLGİSAYAR VE BİLİŞİM FAKÜLTESİ <br> BİLGİSAYAR MÜHENDİSLİĞİ <br> WEB TEKNOLOJİLERİ <br> PROJE ÖDEVİ						
 				 ÖĞRENCİ.............: RAMAZAN DUDU			
-				 ÖĞRENCİ NUMARASI....: G231210061				
+				 ÖĞRENCİ NUMARASI....: G231210453				
 				 ÖĞRENCİ GRUBU.......: A GRUBU					
 
 ### Web Adresleri:
