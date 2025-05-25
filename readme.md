@@ -5,12 +5,7 @@
 				 ÖĞRENCİ GRUBU.......:2.öğretim A GRUBU					
 
 ### Web Adresleri:
-
-https://g231210453.000webhostapp.com/
-<br>
-http://g231210453.000.pe/
-<br>
-http://g231210453.unaux.com/
+http://127.0.0.1/web-project/
 <br>
 
 ### GitHub Repository:
